@@ -186,7 +186,7 @@ latex_documents = [
     ('index',
      'yt-comment-sentiment-analysis.tex',
      u'yt-comment-sentiment-analysis Documentation',
-     u"Danjin", 'manual'),
+     u"CampusX", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'yt-comment-sentiment-analysis', u'yt-comment-sentiment-analysis Documentation',
-     [u"Danjin"], 1)
+     [u"CampusX"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -230,8 +230,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'yt-comment-sentiment-analysis', u'yt-comment-sentiment-analysis Documentation',
-     u"Danjin", 'yt-comment-sentiment-analysis',
-     'small plugin to detect youtube comment sentiment', 'Miscellaneous'),
+     u"CampusX", 'yt-comment-sentiment-analysis',
+     'A small chrome plugin to detect youtube comment sentiments', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

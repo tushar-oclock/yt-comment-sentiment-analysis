@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Danjin\Downloads\CampusX\yt-comment-sentiment-analysis\myenv"
+VIRTUAL_ENV="C:\Users\Nitish\Desktop\yt-comment-sentiment-analysis\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

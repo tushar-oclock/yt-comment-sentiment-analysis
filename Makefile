@@ -5,8 +5,8 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = 1
-PROFILE = 3
+BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
+PROFILE = default
 PROJECT_NAME = yt-comment-sentiment-analysis
 PYTHON_INTERPRETER = python3
 

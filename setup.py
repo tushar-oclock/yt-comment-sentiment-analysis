@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='small plugin to detect youtube comment sentiment',
-    author='Danjin',
+    description='A small chrome plugin to detect youtube comment sentiments',
+    author='CampusX',
     license='',
 )

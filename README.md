@@ -1,7 +1,7 @@
 yt-comment-sentiment-analysis
 ==============================
 
-small plugin to detect youtube comment sentiment
+A small chrome plugin to detect youtube comment sentiments
 
 Project Organization
 ------------

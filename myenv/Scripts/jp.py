@@ -1,4 +1,4 @@
-#!C:\Users\Danjin\Downloads\CampusX\yt-comment-sentiment-analysis\myenv\Scripts\python.exe
+#!C:\Users\Nitish\Desktop\yt-comment-sentiment-analysis\myenv\Scripts\python.exe
 
 import sys
 import json
